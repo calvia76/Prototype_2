@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 6be84e4d7829855419c06b94e56bd135
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audioS: {instanceID: 0}
+  - shot: {fileID: 8300000, guid: 6739c01659ad96d47987f4ddee226b36, type: 3}
+  - bulletPrefab: {instanceID: 0}
+  - casingPrefab: {instanceID: 0}
+  - muzzleFlashPrefab: {instanceID: 0}
+  - headPrefab: {fileID: 6804990658058999119, guid: 65c9f6563c561ee4e8905d1e6a32548b, type: 3}
+  - gunAnimator: {instanceID: 0}
+  - barrelLocation: {instanceID: 0}
+  - casingExitLocation: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
